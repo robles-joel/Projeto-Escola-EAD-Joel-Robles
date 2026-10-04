@@ -1,0 +1,14 @@
+#BlueJ class context
+#Sun Oct 04 17:30:24 BRT 2026
+comment0.target=ListaDeAlunos
+comment1.params=capacidade
+comment1.target=ListaDeAlunos(int)
+comment2.params=a
+comment2.target=boolean adicionarAluno(Aluno)
+comment3.params=codigo
+comment3.target=Aluno buscarAluno(int)
+comment4.target=void exibirLista()
+comment5.target=int getTotalAlunos()
+comment6.target=int getCapacidade()
+comment7.target=Aluno[] getAlunos()
+numComments=8
